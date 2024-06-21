@@ -1,1 +1,1 @@
-# etch-a-sketch
+Project made using HTML, CSS and JavaScript. Part of The Odin Project course.

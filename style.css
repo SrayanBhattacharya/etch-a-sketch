@@ -52,3 +52,8 @@ body > h1{
     display: grid;
     background-color: white;
 }
+
+#message{
+    font-size: 20px;
+    margin: 5px 0;
+}
